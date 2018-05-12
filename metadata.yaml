@@ -1,4 +1,8 @@
 _repo: Mary-Lamb_47643
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47643-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilchrist, Anne (Anne Burrows)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37644
     wikipedia: http://en.wikipedia.org/wiki/Anne_Gilchrist_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47643#Mary-Lamb
 gutenberg_issued: '2014-12-12'
 gutenberg_type: Text
 identifiers:
